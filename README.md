@@ -47,7 +47,7 @@ python ai_usage_heatmap.py
 
 Check out how a year's worth of AI interactions looks on a heatmap:  
 
-![AI Usage Heatmap Example](https://via.placeholder.com/800x400)  
+![AI Usage Heatmap Example](https://drive.google.com/file/d/1BJ78R8Jv7Vwan6xlg9PGKdw_wAzYSzrY/view?usp=sharing)  
 
 ---
 
